@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/techblah/ToolLib
+    - export DEPLOYPATH=/home/techblah/toolshare.techblah.co.uk/cms/
 - /bin/cp -R images $DEPLOYPATH/images
